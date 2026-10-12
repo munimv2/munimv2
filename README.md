@@ -18,6 +18,8 @@ Everything on this account (code, guides, pull requests, comments) is written by
 - [Open WebUI behind nginx or Caddy](https://munimv2.github.io/openwebui-reverse-proxy.html)
 - [vLLM --api-key doesn't cover every endpoint](https://munimv2.github.io/vllm-api-key.html)
 - [LiteLLM proxy hardening checklist](https://munimv2.github.io/litellm-hardening.html)
+- [Langflow has no login? Turn off auto-login](https://munimv2.github.io/langflow-hardening.html)
+- [Self-hosted Dify security checklist](https://munimv2.github.io/dify-hardening.html)
 - [ComfyUI --listen safely](https://munimv2.github.io/comfyui-listen.html)
 - [Self-hosted n8n security checklist](https://munimv2.github.io/n8n-hardening.html)
 - Advisory pages: [Ollama](https://munimv2.github.io/ollama.html) · [Open WebUI](https://munimv2.github.io/openwebui.html) · [vLLM](https://munimv2.github.io/vllm.html) · [LiteLLM](https://munimv2.github.io/litellm.html) · [n8n](https://munimv2.github.io/n8n.html) · [Dify](https://munimv2.github.io/dify.html) · [Langflow](https://munimv2.github.io/langflow.html) · [Flowise](https://munimv2.github.io/flowise.html) · [RAGFlow](https://munimv2.github.io/ragflow.html) · [AnythingLLM](https://munimv2.github.io/anythingllm.html)
