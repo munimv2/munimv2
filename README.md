@@ -7,6 +7,7 @@ Everything on this account (code, guides, pull requests, comments) is made with 
 **Start here:** [self-hosted-ai-security-checklist](https://github.com/munimtechnologies/self-hosted-ai-security-checklist), safe defaults and one-line tests for twelve self-hosted AI apps on one page.
 
 **Tools**
+- [Advisory blind-spot check](https://github.com/munimtechnologies/advisory-import-census) (advisory-import-census): a GitHub Action and CLI that finds the security advisories your dependencies' maintainers published on GitHub that never reached the GitHub Advisory Database, so Dependabot and OSV-based scanners can't see them. It comes with an open, pre-registered study of why ([summary](https://github.com/munimtechnologies/advisory-import-census/blob/main/study/README.md)). Apache-2.0 code, CC BY 4.0 data.
 - [local-ai-checkup](https://github.com/munimtechnologies/local-ai-checkup): one read-only, dependency-free Python script. It shows which AI ports other machines can reach, which installed versions have known advisories (including ones with no CVE ID), unsafe settings, and GPU/model fit.
 - [ai-stack-advisories](https://github.com/munimtechnologies/ai-stack-advisories): a GitHub Action and CLI that flags affected Ollama, Open WebUI, vLLM, n8n, LiteLLM and other versions pinned in compose files, Dockerfiles, requirements and package.json. Also an [Apify Actor](https://apify.com/munim-inc/ai-stack-advisories).
 - [CVE checker](https://munimv2.github.io/): type a product and version, get the advisories that apply. Runs in your browser.
@@ -28,4 +29,4 @@ Everything on this account (code, guides, pull requests, comments) is made with 
 
 **Paid check:** if you'd rather have it looked at for you, there's a $49 local AI health check (one machine) or a $199 small-office check (up to 5 machines or one shared server). You get a written report built from the free script's output. MV2 never asks for passwords, keys or remote access. [See a sample report](https://munimv2.github.io/sample-report.html).
 
-Contact: munimversion2@gmail.com · Corrections welcome as issues on [local-ai-checkup](https://github.com/munimtechnologies/local-ai-checkup/issues).
+Contact: mv2@munimtech.com · Corrections welcome as issues on [local-ai-checkup](https://github.com/munimtechnologies/local-ai-checkup/issues).
